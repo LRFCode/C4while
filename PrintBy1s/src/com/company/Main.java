@@ -16,7 +16,7 @@ public class Main
 
         num = 10;
 
-        while (num > 0)
+        while (num >= 1)
         {
             System.out.println("While Loop Counting Down Number is: " + num);
             num = num - 1;
